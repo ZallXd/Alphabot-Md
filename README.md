@@ -10,7 +10,7 @@
 > 
 ## DONT FORGET TO GIVE A STAR🌟 AND FORK
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ZallXd/v7.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ZallXd/Alphabot-Md.git)
 
 ## BUILD PACKS
 
