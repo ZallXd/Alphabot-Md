@@ -19,7 +19,7 @@ global.autoread = false // auto read pesan / message
 
 // Other
 global.botname = "Zall-Md" //namabot kalian
-global.ownername= "ZALLPESSTORE" //nama kalian
+global.ownername= "ZALL STORE" //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
 global.github = "https://github.com/ZallXd" //bebas
